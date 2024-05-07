@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const o=JSON.parse('{"title":"远程连接","description":"","frontmatter":{},"headers":[],"relativePath":"linux/1.md","filePath":"linux/1.md"}'),l={name:"linux/1.md"},t=n("",31),p=[t];function h(e,k,d,r,c,F){return a(),i("div",null,p)}const y=s(l,[["render",h]]);export{o as __pageData,y as default};

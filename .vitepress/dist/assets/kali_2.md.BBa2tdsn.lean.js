@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const E=JSON.parse('{"title":"二、主动信息收集","description":"","frontmatter":{},"headers":[],"relativePath":"kali/2.md","filePath":"kali/2.md"}'),h={name:"kali/2.md"},l=n("",54),p=[l];function k(t,e,r,d,g,F){return a(),i("div",null,p)}const C=s(h,[["render",k]]);export{E as __pageData,C as default};

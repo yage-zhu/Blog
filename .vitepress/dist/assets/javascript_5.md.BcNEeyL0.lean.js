@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"类型转换","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/5.md","filePath":"javascript/5.md"}'),h={name:"javascript/5.md"},l=n("",17),t=[l];function p(k,e,E,r,d,g){return a(),i("div",null,t)}const o=s(h,[["render",p]]);export{c as __pageData,o as default};

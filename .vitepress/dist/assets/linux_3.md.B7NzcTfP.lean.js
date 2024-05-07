@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as i,a3 as a}from"./chunks/framework.7ep0oyv4.js";const F=JSON.parse('{"title":"重定向/环境变量","description":"","frontmatter":{},"headers":[],"relativePath":"linux/3.md","filePath":"linux/3.md"}'),h={name:"linux/3.md"},l=a("",31),n=[l];function d(e,p,r,k,o,c){return i(),t("div",null,n)}const y=s(h,[["render",d]]);export{F as __pageData,y as default};

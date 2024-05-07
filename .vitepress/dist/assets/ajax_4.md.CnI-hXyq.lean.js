@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"04 【跨域初识】","description":"","frontmatter":{},"headers":[],"relativePath":"ajax/4.md","filePath":"ajax/4.md"}'),t={name:"ajax/4.md"},h=n("",18),l=[h];function p(k,e,r,E,d,g){return a(),i("div",null,l)}const y=s(t,[["render",p]]);export{c as __pageData,y as default};

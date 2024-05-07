@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"Shell编程","description":"","frontmatter":{},"headers":[],"relativePath":"linux/8.md","filePath":"linux/8.md"}'),h={name:"linux/8.md"},l=n("",35),k=[l];function p(t,e,d,F,r,g){return a(),i("div",null,k)}const y=s(h,[["render",p]]);export{c as __pageData,y as default};

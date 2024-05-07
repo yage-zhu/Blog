@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const F=JSON.parse('{"title":"类与接口","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/5.md","filePath":"typescript/5.md"}'),h={name:"typescript/5.md"},k=n("",138),l=[k];function p(t,e,E,r,d,g){return a(),i("div",null,l)}const c=s(h,[["render",p]]);export{F as __pageData,c as default};

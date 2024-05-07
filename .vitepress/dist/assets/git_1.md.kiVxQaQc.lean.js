@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.7ep0oyv4.js";const F=JSON.parse('{"title":"1、预前配置","description":"","frontmatter":{},"headers":[],"relativePath":"git/1.md","filePath":"git/1.md"}'),h={name:"git/1.md"},n=t("",18),p=[n];function e(l,k,o,g,r,d){return a(),i("div",null,p)}const b=s(h,[["render",e]]);export{F as __pageData,b as default};

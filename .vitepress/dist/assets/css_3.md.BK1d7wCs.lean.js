@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e,a3 as r}from"./chunks/framework.7ep0oyv4.js";const u=JSON.parse('{"title":"三、CSS三大特性","description":"","frontmatter":{},"headers":[],"relativePath":"css/3.md","filePath":"css/3.md"}'),a={name:"css/3.md"},s=r("",7),n=[s];function l(c,i,d,_,p,g){return e(),o("div",null,n)}const b=t(a,[["render",l]]);export{u as __pageData,b as default};

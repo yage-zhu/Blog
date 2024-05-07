@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"模块管理","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/8.md","filePath":"typescript/8.md"}'),h={name:"typescript/8.md"},n=t("",58),p=[n];function l(k,e,d,r,E,g){return a(),i("div",null,p)}const F=s(h,[["render",l]]);export{c as __pageData,F as default};

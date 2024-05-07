@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const F=JSON.parse('{"title":"Python线程进程和协程","description":"","frontmatter":{},"headers":[],"relativePath":"python/11.md","filePath":"python/11.md"}'),h={name:"python/11.md"},p=n("",53),l=[p];function k(t,e,E,r,d,g){return a(),i("div",null,l)}const c=s(h,[["render",k]]);export{F as __pageData,c as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a3 as n}from"./chunks/framework.7ep0oyv4.js";const g=JSON.parse('{"title":"进阶玩法","description":"","frontmatter":{},"headers":[],"relativePath":"linux/9.md","filePath":"linux/9.md"}'),h={name:"linux/9.md"},t=n("",7),l=[t];function p(e,k,r,d,c,o){return i(),a("div",null,l)}const y=s(h,[["render",p]]);export{g as __pageData,y as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"六、文件上传管理","description":"","frontmatter":{},"headers":[],"relativePath":"nodejs/6.md","filePath":"nodejs/6.md"}'),t={name:"nodejs/6.md"},h=n("",7),p=[h];function l(e,k,E,d,r,o){return a(),i("div",null,p)}const y=s(t,[["render",l]]);export{c as __pageData,y as default};

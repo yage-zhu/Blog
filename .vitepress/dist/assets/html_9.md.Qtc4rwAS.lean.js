@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as d,a3 as o}from"./chunks/framework.7ep0oyv4.js";const f=JSON.parse('{"title":"九、新增全局属性（了解）","description":"","frontmatter":{},"headers":[],"relativePath":"html/9.md","filePath":"html/9.md"}'),c={name:"html/9.md"},r=o("",2),a=[r];function _(s,n,l,h,i,b){return d(),e("div",null,a)}const p=t(c,[["render",_]]);export{f as __pageData,p as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"函数","description":"","frontmatter":{},"headers":[],"relativePath":"javascript/21.md","filePath":"javascript/21.md"}'),l={name:"javascript/21.md"},h=n("",33),p=[h];function k(t,e,E,d,r,g){return a(),i("div",null,p)}const o=s(l,[["render",k]]);export{c as __pageData,o as default};

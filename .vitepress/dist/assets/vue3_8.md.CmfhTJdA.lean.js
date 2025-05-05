@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"8. Vue3新组件","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/8.md","filePath":"vue3/8.md"}'),l={name:"vue3/8.md"},h=t("",12),n=[h];function e(p,k,E,d,r,o){return a(),i("div",null,n)}const y=s(l,[["render",e]]);export{c as __pageData,y as default};

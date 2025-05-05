@@ -1,1 +1,0 @@
-import{_ as i,c as l,o as t,a3 as a}from"./chunks/framework.7ep0oyv4.js";const _=JSON.parse('{"title":"4、快速推送","description":"","frontmatter":{},"headers":[],"relativePath":"git/4.md","filePath":"git/4.md"}'),e={name:"git/4.md"},o=a("",5),u=[o];function r(g,s,n,h,p,c){return t(),l("div",null,u)}const m=i(e,[["render",r]]);export{_ as __pageData,m as default};

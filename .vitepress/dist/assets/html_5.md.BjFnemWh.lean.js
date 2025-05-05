@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a3 as a}from"./chunks/framework.7ep0oyv4.js";const T=JSON.parse('{"title":"五、HTML5简介","description":"","frontmatter":{},"headers":[],"relativePath":"html/5.md","filePath":"html/5.md"}'),l={name:"html/5.md"},c=a("",8),r=[c];function d(i,h,n,s,_,m){return t(),o("div",null,r)}const u=e(l,[["render",d]]);export{T as __pageData,u as default};

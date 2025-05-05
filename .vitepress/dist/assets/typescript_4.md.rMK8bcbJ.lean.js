@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as h}from"./chunks/framework.7ep0oyv4.js";const F=JSON.parse('{"title":"断言使用","description":"","frontmatter":{},"headers":[],"relativePath":"typescript/4.md","filePath":"typescript/4.md"}'),n={name:"typescript/4.md"},k=h("",92),l=[k];function t(p,e,d,E,r,g){return a(),i("div",null,l)}const c=s(n,[["render",t]]);export{F as __pageData,c as default};

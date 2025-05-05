@@ -1,1 +1,0 @@
-import{_ as t,c as s,o as i,a3 as a}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"六、新增语义化标签","description":"","frontmatter":{},"headers":[],"relativePath":"html/6.md","filePath":"html/6.md"}'),h={name:"html/6.md"},d=a("",21),l=[d];function e(n,k,r,p,o,E){return i(),s("div",null,l)}const y=t(h,[["render",e]]);export{c as __pageData,y as default};

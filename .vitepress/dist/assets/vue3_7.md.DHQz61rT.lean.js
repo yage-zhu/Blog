@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as l}from"./chunks/framework.7ep0oyv4.js";const y=JSON.parse('{"title":"7. 其它 API","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/7.md","filePath":"vue3/7.md"}'),n={name:"vue3/7.md"},h=l("",24),t=[h];function k(p,e,r,E,d,o){return a(),i("div",null,t)}const c=s(n,[["render",k]]);export{y as __pageData,c as default};

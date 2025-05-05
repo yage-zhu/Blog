@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a3 as a}from"./chunks/framework.7ep0oyv4.js";const m=JSON.parse('{"title":"一、被动信息收集","description":"","frontmatter":{},"headers":[],"relativePath":"kali/1.md","filePath":"kali/1.md"}'),l={name:"kali/1.md"},o=a("",44),i=[o];function n(p,s,h,c,g,d){return r(),t("div",null,i)}const f=e(l,[["render",n]]);export{m as __pageData,f as default};

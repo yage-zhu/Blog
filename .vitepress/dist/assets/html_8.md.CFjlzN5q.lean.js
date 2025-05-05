@@ -1,1 +1,0 @@
-import{_ as t,c as d,o as e,a3 as o}from"./chunks/framework.7ep0oyv4.js";const m=JSON.parse('{"title":"八、新增多媒体标签","description":"","frontmatter":{},"headers":[],"relativePath":"html/8.md","filePath":"html/8.md"}'),a={name:"html/8.md"},r=o("",7),c=[r];function h(l,n,s,_,i,p){return e(),d("div",null,c)}const b=t(a,[["render",h]]);export{m as __pageData,b as default};

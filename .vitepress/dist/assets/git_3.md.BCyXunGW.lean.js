@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as t}from"./chunks/framework.7ep0oyv4.js";const c=JSON.parse('{"title":"3、Git远程仓库","description":"","frontmatter":{},"headers":[],"relativePath":"git/3.md","filePath":"git/3.md"}'),h={name:"git/3.md"},e=t("",29),l=[e];function p(n,k,r,g,d,F){return a(),i("div",null,l)}const y=s(h,[["render",p]]);export{c as __pageData,y as default};

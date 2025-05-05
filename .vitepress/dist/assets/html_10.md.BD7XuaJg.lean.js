@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as t,a3 as a}from"./chunks/framework.7ep0oyv4.js";const E=JSON.parse('{"title":"十、HTML5兼容性处理","description":"","frontmatter":{},"headers":[],"relativePath":"html/10.md","filePath":"html/10.md"}'),l={name:"html/10.md"},n=a("",2),e=[n];function p(h,k,d,o,c,g){return t(),i("div",null,e)}const u=s(l,[["render",p]]);export{E as __pageData,u as default};

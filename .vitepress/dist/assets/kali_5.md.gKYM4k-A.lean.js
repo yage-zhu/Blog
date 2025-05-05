@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const C=JSON.parse('{"title":"五、漏洞利用","description":"","frontmatter":{},"headers":[],"relativePath":"kali/5.md","filePath":"kali/5.md"}'),h={name:"kali/5.md"},l=n("",39),t=[l];function p(k,e,r,F,d,g){return a(),i("div",null,t)}const o=s(h,[["render",p]]);export{C as __pageData,o as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a3 as n}from"./chunks/framework.7ep0oyv4.js";const F=JSON.parse('{"title":"问题篇","description":"","frontmatter":{},"headers":[],"relativePath":"linux/10.md","filePath":"linux/10.md"}'),h={name:"linux/10.md"},l=n("",32),t=[l];function p(e,k,r,d,o,c){return a(),i("div",null,t)}const y=s(h,[["render",p]]);export{F as __pageData,y as default};
